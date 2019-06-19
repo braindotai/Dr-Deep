@@ -22,11 +22,11 @@ Lets look out some sample predictions:
   
   Patient below IS NOT suffering from Tuberculosis.
   
-  ![Alt text](samples/no-tuberculosis.PNG?raw=true "Title")
+  ![Alt text](samples/yes-tuberculosis.PNG?raw=true "Title")
   
   Patient below IS suffering from Tuberculosis.
   
-  ![Alt text](samples/yes-tuberculosis.PNG?raw=true "Title")
+  ![Alt text](samples/no-tuberculosis.PNG?raw=true "Title")
   
 - Predicting what type of Skin Disease patient is suffering from.
 
