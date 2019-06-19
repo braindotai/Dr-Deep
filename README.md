@@ -17,4 +17,15 @@ Currently available Medical Services:
 - Blood Cells
 - Skin Disease
 
+Lets look out some sample predictions:
+- Predicting if the patient is suffering from Tuberculosis.
+  Patient below IS NOT suffering from Tuberculosis.
+  Patient below IS suffering from Tuberculosis.
+  
+- Predicting what type of Skin Disease patient is suffering from.
+  
+  
+- Predicting to what category Blood Cells sample belongs.
+
+
 Visit website at: http://drdeep.herokuapp.com/
