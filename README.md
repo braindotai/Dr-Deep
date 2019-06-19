@@ -19,13 +19,22 @@ Currently available Medical Services:
 
 Lets look out some sample predictions:
 - Predicting if the patient is suffering from Tuberculosis.
+  
   Patient below IS NOT suffering from Tuberculosis.
+  
+  ![Alt text](samples/no-tuberculosis.PNG?raw=true "Title")
+  
   Patient below IS suffering from Tuberculosis.
   
-- Predicting what type of Skin Disease patient is suffering from.
+  ![Alt text](samples/yes-tuberculosis.PNG?raw=true "Title")
   
+- Predicting what type of Skin Disease patient is suffering from.
+
+  ![Alt text](samples/skin-disease-report.PNG?raw=true "Title")
   
 - Predicting to what category Blood Cells sample belongs.
+
+  ![Alt text](samples/bloodcell-report.PNG?raw=true "Title")
 
 
 Visit website at: http://drdeep.herokuapp.com/
