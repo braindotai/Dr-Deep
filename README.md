@@ -6,7 +6,7 @@ Key reasons to use our plateform:
 - We keep updating our existing models and building more types of medical applications for better versatility.
 - We use latest state of the art deep learning based architectures and approaches for maximum accuracy.
 - Our plateform is non-profit and provides entirely free services with zero subscription fee for anyone, anywhere on the planet!
-- Out plateform is open source so that anyone can contribute to improve and make our plateform more reliable and better.
+- Our plateform is open source so that anyone can contribute to improve and make our plateform more reliable and better.
 
 Currently available Medical Services:
 
